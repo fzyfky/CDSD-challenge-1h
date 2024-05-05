@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is the baseline code for the CDSD-10h (Chinese Dysarthria Speech Database) Challenge and CDSD-1h (Chinese Dysarthria Speech Database) Challenge.
+This repository is the baseline code for the  CDSD-1h (Chinese Dysarthria Speech Database) Challenge.
 
 The code in this repository is based on the Wenet(https://github.com/wenet-e2e/wenet)
 
