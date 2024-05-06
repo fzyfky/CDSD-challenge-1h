@@ -32,9 +32,6 @@ We have released the latest data of the training and development sets and fixed 
 conda create -n wenet python=3.8
 conda activate wenet
 pip install -r requirements.txt
-
-# install other dependence
-pip install -r requirements.txt
 ```
 
 ## Baseline
