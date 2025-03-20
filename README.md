@@ -1,4 +1,4 @@
-# Dysarthria Speech Recognition Challenge-Speaker Dependence-1h
+# Dysarthria Speech Recognition Challenge-Speaker Independence-1h
 
 ## Introduction
 
