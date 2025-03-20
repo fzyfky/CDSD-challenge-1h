@@ -13,7 +13,7 @@ Before running this baseline, you should have downloaded and unzipped the datase
 ```
 
 CDSD-1h
-├── 01~44
+├── 73~126
 │   ├── wav
 │   │   ├── dev
 │   │   ├── test
