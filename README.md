@@ -12,8 +12,8 @@ Before running this baseline, you should have downloaded and unzipped the datase
 
 ```
 
-CDSD-1h
-├── 73~126
+CDSD-100
+|
 │   ├── wav
 │   │   ├── dev
 │   │   ├── test
@@ -62,10 +62,10 @@ The baseline system consists of three stages of training:
 
 ### Results of dev set
 
-                                         CDSD-1h-SI
-                         | Model       | Test set        |   WER   |
+                                         CDSD-100
+                         | Model       | Test set        |   CER   |
                          | ----------  | --------------- | ------- |            
-                         | CDSD-1h     | CDSD-1h         |  28.87  |
+                         | CDSD-100    | CDSD-100        |  20.24  |
 
 ## Notice
 
