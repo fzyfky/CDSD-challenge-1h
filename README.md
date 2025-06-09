@@ -65,7 +65,7 @@ The baseline system consists of three stages of training:
                                          CDSD-100
                          | Model       | Test set        |   CER   |
                          | ----------  | --------------- | ------- |            
-                         | CDSD-100    | CDSD-100        |  20.24  |
+                         | CDSD-100    | CDSD-100        |  22.24  |
 
 ## Notice
 
